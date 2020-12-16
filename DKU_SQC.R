@@ -1,7 +1,7 @@
 library(qcc)
 
 setwd('C:/Users/taeoo/Desktop/태민우/학교/3학년 2학기(2020)/통계적품질관리(이성임-1)')
-st <-  read.csv('[통계적품질관리]32154878 태민우 데이터.csv', header = T)
+st <-  read.csv('DKU_SQC.csv', header = T)
 st
 
 ### Xbar
